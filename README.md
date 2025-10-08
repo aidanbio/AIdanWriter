@@ -1,2 +1,2 @@
-# AIdanEditor
-AI-driven Web Editor
+# AIdanWriter
+AI-driven Web Do
