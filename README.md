@@ -1,2 +1,2 @@
-# AIdanWriter
-AI-driven Web Do
+# AIdanDocs
+AI-driven Document Editor like Google Docs
